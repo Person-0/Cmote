@@ -1,0 +1,17 @@
+.env
+.*
+!.gitignore
+*.ini
+*node_modules
+*.lck
+*~$*
+
+PCB/working_exports
+PCB/bom.xlsx
+PCB/Cmote/Cmote-backups
+PCB/Cmote/fp-info-cache
+PCB/Cmote/#auto_saved_files#
+PCB/Cmote/_autosave-Cmote.kicad_sch
+PCB/Cmote/_autosave-Cmote.kicad_pcb
+PCB/Cmote/fabrication-toolkit-options.json
+PCB/Cmote/production
