@@ -100,3 +100,51 @@ It looks like this:
 The lid will friction fit into the case using the side extrusions.
 
 It has rectangular cuts for headers so the devboard can be freely used without taking off the lid again and again.
+
+---
+---
+### `(#05)` 28/08/26 (04:15)
+## Firmware: 1h
+
+I implemented basic firmware for sending a power command using the IR led and also receiving IR data from the TSOP 1738.
+
+I used VSCode with the PlatformIO extension to speed up the dev process and ensured that the project built successfully. Now the only thing remaining is testing whether it actually works in real life and then I can move on the completing the actual firmware.
+
+The current firmware (located in [/firmware/cmote/](./firmware/cmote/)) is this:
+
+```cpp
+bool sentPwrCmd = false;
+
+void setup() {
+	Serial.begin(115200); // serial is on usb-c
+	IrSender.begin(IR_TX_PIN);
+	IrReceiver.begin(IR_RX_PIN, ENABLE_LED_FEEDBACK); 
+}
+
+void loop() {
+
+	if (!sentPwrCmd) {
+		uint16_t address = 0x00; // standard device address
+		uint8_t command = 0x45;  // standard power command
+		IrSender.sendNEC(address, command, 0);
+		sentPwrCmd = true;
+		Serial.println("=== power command was sent!! ===");
+	}
+
+	if (IrReceiver.decode()) {
+		Serial.println("-------------------------");
+		Serial.println("\tbegin decode():");
+        Serial.print("Protocol: ");
+        Serial.println(getProtocolString(IrReceiver.decodedIRData.protocol));
+        Serial.print("Command (Hex): 0x");
+        Serial.println(IrReceiver.decodedIRData.command, HEX);
+        Serial.print("Address (Hex): 0x");
+        Serial.println(IrReceiver.decodedIRData.address, HEX);
+        Serial.println("-------------------------\n");
+        IrReceiver.resume(); 
+    }
+
+}
+```
+
+It will send a power command at the start and then just listen to all the IR signals and print them to the serial on USB-C port of the board.
