@@ -92,6 +92,7 @@ Note that this board has no "reset button" as it will be programmed using the UP
 While this is technically a devboard and has no requirement for a case, I still made one using Fusion360.
 
 It looks like this:
+
 <img src="./assets/journalimg_9.png" width="512">
 <img src="./assets/journalimg_10.png" width="512">
 <img src="./assets/journalimg_11.png" width="512">

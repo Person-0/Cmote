@@ -15,3 +15,5 @@ PCB/Cmote/_autosave-Cmote.kicad_sch
 PCB/Cmote/_autosave-Cmote.kicad_pcb
 PCB/Cmote/fabrication-toolkit-options.json
 PCB/Cmote/production
+
+!firmware/cmote/platformio.ini
