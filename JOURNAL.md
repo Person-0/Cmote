@@ -1,8 +1,8 @@
 # **Cmote**
 
-A USB-C IR transmitter for controlling devices like ACs, TVs for when you're too lazy to find the remote and your smartphone does not have a built-in IR blaster.
+A USB-C IR transmitter for controlling devices like ACs, TVs for when you're too lazy to find the remote and your smartphone does not have a built-in IR blaster, built-in to a devboard, powered by the Attiny1616 MCU.
 
-Time Spent: `9h`
+Time Spent: `13h`
 
 ---
 ---
@@ -72,8 +72,6 @@ The PCB is a 4-layer stackup:
 - Layer 3: In2.Cu (power plane)
 - Layer 4: Bottom B.Cu (signal traces)
 
-
-
 The finished routed PCB looks like this:
 
 <img src="./assets/journalimg_6.png" width="512">
@@ -82,3 +80,22 @@ The finished routed PCB looks like this:
 Preview PCB 3D View:
 
 <img src="./assets/journalimg_8.png" width="512">
+
+
+Note that this board has no "reset button" as it will be programmed using the UPDI header pad (extreme bottom right) which does not require a reset button. As for programming the board, it requires a specialized UPDI programmer BUT i will be using another devboard to program this using [pyupdi](https://github.com/mraardvark/pyupdi/).
+
+---
+---
+### `(#04)` 28/08/26 (03:03)
+## CAD: 4h
+
+While this is technically a devboard and has no requirement for a case, I still made one using Fusion360.
+
+It looks like this:
+<img src="./assets/journalimg_9.png" width="512">
+<img src="./assets/journalimg_10.png" width="512">
+<img src="./assets/journalimg_11.png" width="512">
+
+The lid will friction fit into the case using the side extrusions.
+
+It has rectangular cuts for headers so the devboard can be freely used without taking off the lid again and again.

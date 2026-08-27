@@ -507,7 +507,7 @@
       "plot": "",
       "pos_files": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../CAD/models/Cmote.step",
       "svg": "",
       "vrml": ""
     },
