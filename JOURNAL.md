@@ -1,6 +1,6 @@
 # **Cmote**
 
-A USB-C IR transmitter for controlling devices like ACs, TVs for when you're too lazy to find the remote and your smartphone does not have a built-in IR blaster, built-in to a devboard, powered by the Attiny1616 MCU.
+A USB-C IR transmitter for controlling devices like ACs, TVs for when you're too lazy to find the remote and your smartphone does not have a built-in IR blaster. Built-in to a devboard powered by the Attiny1616 MCU.
 
 Time Spent: `13h`
 
