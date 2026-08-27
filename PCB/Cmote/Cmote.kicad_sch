@@ -5956,7 +5956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755235601094455296-C106204.pdf?response-content-disposition=attachment%3B%20filename%3DC106204.pdf%3B%20filename%2A%3DUTF-8%27%27C106204.pdf&x-oss-date=20260826T202137Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=242d53dc2ac7f2df4b6d9e4a960654e7c832b45aec8f536b8437bf9dc39c8401"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579707269992677376-C1525.pdf?response-content-disposition=attachment%3B%20filename%3DC1525.pdf%3B%20filename%2A%3DUTF-8%27%27C1525.pdf&x-oss-date=20260827T230922Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=e7951d26dfa9bdbfd9dd9a929ed1e2a04ec92c559a4cc10213e65fb68332bc19"
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -5974,7 +5974,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C106204"
+		(property "LCSC Part" "C1525"
 			(at 76.2 83.82 90)
 			(effects
 				(font
@@ -5983,7 +5983,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 76.2 83.82 90)
 			(effects
 				(font
@@ -5992,7 +5992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 76.2 83.82 90)
 			(effects
 				(font
@@ -6449,7 +6449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755235601094455296-C106204.pdf?response-content-disposition=attachment%3B%20filename%3DC106204.pdf%3B%20filename%2A%3DUTF-8%27%27C106204.pdf&x-oss-date=20260826T202137Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=242d53dc2ac7f2df4b6d9e4a960654e7c832b45aec8f536b8437bf9dc39c8401"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579707269992677376-C1525.pdf?response-content-disposition=attachment%3B%20filename%3DC1525.pdf%3B%20filename%2A%3DUTF-8%27%27C1525.pdf&x-oss-date=20260827T230922Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=e7951d26dfa9bdbfd9dd9a929ed1e2a04ec92c559a4cc10213e65fb68332bc19"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -6467,7 +6467,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C106204"
+		(property "LCSC Part" "C1525"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -6476,7 +6476,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -6485,7 +6485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -6609,7 +6609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755236496687681536-C527010.pdf?response-content-disposition=attachment%3B%20filename%3DC527010.pdf%3B%20filename%2A%3DUTF-8%27%27C527010.pdf&x-oss-date=20260826T202510Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=24549b2f389feb31496989d1725ebe0a68e60f0315a195a640510cd5a8435dfe"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579707103457972224-C19666.pdf?response-content-disposition=attachment%3B%20filename%3DC19666.pdf%3B%20filename%2A%3DUTF-8%27%27C19666.pdf&x-oss-date=20260827T230819Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=8b47bc0d553bdebd7ee28ba6f789c16dcee7132920e7121226719b5ce1f2058e"
 			(at 41.91 88.9 0)
 			(effects
 				(font
@@ -6627,7 +6627,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C527010"
+		(property "LCSC Part" "C19666"
 			(at 41.91 88.9 90)
 			(effects
 				(font
@@ -6636,7 +6636,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB474"
+		(property "MPN" "CL10A475KO8NNNC"
 			(at 41.91 88.9 90)
 			(effects
 				(font
@@ -6645,7 +6645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 41.91 88.9 90)
 			(effects
 				(font
@@ -6705,7 +6705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8727292491732561920-C105872.pdf?response-content-disposition=attachment%3B%20filename%3DC105872.pdf%3B%20filename%2A%3DUTF-8%27%27C105872.pdf&x-oss-date=20260826T210734Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vTJNmCqYlw4aeEbBWEvmgCYulPtoGcjzz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qat5zWAt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWsrtCtL%2FJjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYIQe2ie6KWD5sagAEmsiyuwVonPb4WdmiqsijKV2ew64nO4aUQpDsXzlRF6UrXR3eyYfV0cCQFF06s0UptW%2BP4i%2F11CYF77FjySrrRby71x1rjjwikScgb6%2B06i9Q9TNQW%2FWzSHrN2W3%2FPxDIOBFzayl5Naw50BjvYCo%2BGkDkLzaVrh%2Flu%2BB1BdslZ7SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXfoc6DVQVeon35ZhWnfcYD7m%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=a0a6ebc04c3f66af908489b234ab8d36a01f45a389da6ef86c0f0981912055c7"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706035999215616-C25905.pdf?response-content-disposition=attachment%3B%20filename%3DC25905.pdf%3B%20filename%2A%3DUTF-8%27%27C25905.pdf&x-oss-date=20260827T231158Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=a8f5f2ee3e2f79fcc0f98f65b357b222a5d17b33720047006ff76b8306350b30"
 			(at 217.17 52.07 0)
 			(effects
 				(font
@@ -6723,7 +6723,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C105872"
+		(property "LCSC Part" "C25905"
 			(at 217.17 52.07 0)
 			(effects
 				(font
@@ -6732,7 +6732,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-075K1L"
+		(property "MPN" "0402WGF5101TCE"
 			(at 217.17 52.07 0)
 			(effects
 				(font
@@ -6741,7 +6741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 217.17 52.07 0)
 			(effects
 				(font
@@ -6998,7 +6998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8727292491732561920-C105872.pdf?response-content-disposition=attachment%3B%20filename%3DC105872.pdf%3B%20filename%2A%3DUTF-8%27%27C105872.pdf&x-oss-date=20260826T210734Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vTJNmCqYlw4aeEbBWEvmgCYulPtoGcjzz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qat5zWAt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWsrtCtL%2FJjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYIQe2ie6KWD5sagAEmsiyuwVonPb4WdmiqsijKV2ew64nO4aUQpDsXzlRF6UrXR3eyYfV0cCQFF06s0UptW%2BP4i%2F11CYF77FjySrrRby71x1rjjwikScgb6%2B06i9Q9TNQW%2FWzSHrN2W3%2FPxDIOBFzayl5Naw50BjvYCo%2BGkDkLzaVrh%2Flu%2BB1BdslZ7SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXfoc6DVQVeon35ZhWnfcYD7m%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=a0a6ebc04c3f66af908489b234ab8d36a01f45a389da6ef86c0f0981912055c7"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706035999215616-C25905.pdf?response-content-disposition=attachment%3B%20filename%3DC25905.pdf%3B%20filename%2A%3DUTF-8%27%27C25905.pdf&x-oss-date=20260827T231158Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=a8f5f2ee3e2f79fcc0f98f65b357b222a5d17b33720047006ff76b8306350b30"
 			(at 261.62 43.18 0)
 			(effects
 				(font
@@ -7016,7 +7016,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C105872"
+		(property "LCSC Part" "C25905"
 			(at 261.62 43.18 0)
 			(effects
 				(font
@@ -7025,7 +7025,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-075K1L"
+		(property "MPN" "0402WGF5101TCE"
 			(at 261.62 43.18 0)
 			(effects
 				(font
@@ -7034,7 +7034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 261.62 43.18 0)
 			(effects
 				(font
@@ -7093,7 +7093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8725829398971740160-C106232.pdf?response-content-disposition=attachment%3B%20filename%3DC106232.pdf%3B%20filename%2A%3DUTF-8%27%27C106232.pdf&x-oss-date=20260826T202820Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=8d3a9dcdfa005bb82fe1d34f9fb919752240e8a5ca8d35f171402f967be58ea7"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579705907476807680-C25076.pdf?response-content-disposition=attachment%3B%20filename%3DC25076.pdf%3B%20filename%2A%3DUTF-8%27%27C25076.pdf&x-oss-date=20260827T231056Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=c2686fb0a0fe223d72fa5b50a665cf00930d881253b2b606644582fe5762139b"
 			(at 63.5 25.4 0)
 			(effects
 				(font
@@ -7111,7 +7111,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C106232"
+		(property "LCSC Part" "C25076"
 			(at 63.5 25.4 90)
 			(effects
 				(font
@@ -7120,7 +7120,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-07100RL"
+		(property "MPN" "0402WGF1000TCE"
 			(at 63.5 25.4 90)
 			(effects
 				(font
@@ -7129,7 +7129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 63.5 25.4 90)
 			(effects
 				(font
@@ -7628,7 +7628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8725840910516027392-C114877.pdf?response-content-disposition=attachment%3B%20filename%3DC114877.pdf%3B%20filename%2A%3DUTF-8%27%27C114877.pdf&x-oss-date=20260826T203041Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=49717caf6019e457fcbd71d4df0d42743bcbbee8facbb20c16fd3f846eebca67"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579705913225035776-C25117.pdf?response-content-disposition=attachment%3B%20filename%3DC25117.pdf%3B%20filename%2A%3DUTF-8%27%27C25117.pdf&x-oss-date=20260827T231242Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=dd5706498244d80d936134394dfd1add6edc6c6d57cf39b1573e85a03e1ed366"
 			(at 96.52 92.71 0)
 			(effects
 				(font
@@ -7646,7 +7646,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C114877"
+		(property "LCSC Part" "C25117"
 			(at 96.52 92.71 90)
 			(effects
 				(font
@@ -7655,7 +7655,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-07470RL"
+		(property "MPN" "0402WGF4700TCE"
 			(at 96.52 92.71 90)
 			(effects
 				(font
@@ -7664,7 +7664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 96.52 92.71 90)
 			(effects
 				(font
@@ -7854,7 +7854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755235601094455296-C106204.pdf?response-content-disposition=attachment%3B%20filename%3DC106204.pdf%3B%20filename%2A%3DUTF-8%27%27C106204.pdf&x-oss-date=20260826T202137Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=242d53dc2ac7f2df4b6d9e4a960654e7c832b45aec8f536b8437bf9dc39c8401"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579707269992677376-C1525.pdf?response-content-disposition=attachment%3B%20filename%3DC1525.pdf%3B%20filename%2A%3DUTF-8%27%27C1525.pdf&x-oss-date=20260827T230922Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=e7951d26dfa9bdbfd9dd9a929ed1e2a04ec92c559a4cc10213e65fb68332bc19"
 			(at 111.76 35.56 0)
 			(effects
 				(font
@@ -7872,7 +7872,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C106204"
+		(property "LCSC Part" "C1525"
 			(at 111.76 35.56 0)
 			(effects
 				(font
@@ -7881,7 +7881,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 111.76 35.56 0)
 			(effects
 				(font
@@ -7890,7 +7890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 111.76 35.56 0)
 			(effects
 				(font
@@ -8382,7 +8382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755235601094455296-C106204.pdf?response-content-disposition=attachment%3B%20filename%3DC106204.pdf%3B%20filename%2A%3DUTF-8%27%27C106204.pdf&x-oss-date=20260826T202137Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2BeMiCnK1AxvCqMVzCnVFgfctkmq%2BZljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qcM092It557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWqpsX9Vf86HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIBtoMiqKWD5sagAG0wWHwXAgrqBg6%2FDOCNquOU9utlWFrEcR7%2BoGfNOHsXOvMBqVp%2BDuP4PWft8Vluk9fmQDSCXgnV6r2MkOX4cUJ3%2BkMQQVqlSSotsLiTxMkn1XgE86eb4rwSEUk%2FE4qdxNtEmsf6L7%2BcpVuUibcplCJwrBixcn0tj6%2BGtnCqahDMSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZK3r6qraq2A3zsyQ5qDHuj2t%2F20260826%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=242d53dc2ac7f2df4b6d9e4a960654e7c832b45aec8f536b8437bf9dc39c8401"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579707269992677376-C1525.pdf?response-content-disposition=attachment%3B%20filename%3DC1525.pdf%3B%20filename%2A%3DUTF-8%27%27C1525.pdf&x-oss-date=20260827T230922Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vaEoyAlY9mwfGqZVDJrHcAO%2BYfuKPoijz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qbhI2Ewt557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWkph28tqg6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIpk3Sj6KWD5sagAFsoD7kQneFQCIR1fq5fC7IjsbxQKivUqXvtLFlHT9MygR6UVR3hCzpWjMHutWppeCWFZwnbzCpEpJ2P76BxL4tiTvZGuyWjaYFn768NNi1SqOcEHY2ETTSwPSOerIPVZVHY%2FLRHI4PstN82kLvMMIfEuEcXcYvg%2FGJUBKhJoRu0iAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXoY64xPGv3AgvxHwU7i3WfCh%2F20260827%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=e7951d26dfa9bdbfd9dd9a929ed1e2a04ec92c559a4cc10213e65fb68332bc19"
 			(at 41.91 92.71 0)
 			(effects
 				(font
@@ -8400,7 +8400,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C106204"
+		(property "LCSC Part" "C1525"
 			(at 41.91 92.71 90)
 			(effects
 				(font
@@ -8409,7 +8409,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 41.91 92.71 90)
 			(effects
 				(font
@@ -8418,7 +8418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 41.91 92.71 90)
 			(effects
 				(font
