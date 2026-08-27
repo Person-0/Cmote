@@ -2,7 +2,7 @@
 
 A USB-C IR transmitter for controlling devices like ACs, TVs for when you're too lazy to find the remote and your smartphone does not have a built-in IR blaster.
 
-Time Spent: `4h`
+Time Spent: `9h`
 
 ---
 ---
@@ -52,3 +52,33 @@ I added 2.54mm header pads for the following:
 - 2x 8pin unused MCU Pins (7 pins, 1 GND)
 
 <img src="./assets/journalimg_4.png" width="512">
+
+---
+---
+### `(#03)` 27/08/26 (05:39)
+## USB-C, PCB: 5h
+
+I completed the schematics including the USB-C Plug
+
+<img src="./assets/journalimg_5.png" width="512">
+
+I used [this](https://www.lcsc.com/product-detail/C53436568.html) USB-C plug from JLCPCB, and it extremely hard to find a side-mount USB-C plug that supported economic assembly (standard assembly costs too much)
+
+I finished routing the PCB and made sure the decoupling capacitors were as close to the appropriate pin as possible and routed the USB D+ and D- as differential pairs to ensure signal integrity.
+
+The PCB is a 4-layer stackup:
+- Layer 1: Top F.Cu (signal traces)
+- Layer 2: In1.Cu (ground plane)
+- Layer 3: In2.Cu (power plane)
+- Layer 4: Bottom B.Cu (signal traces)
+
+
+
+The finished routed PCB looks like this:
+
+<img src="./assets/journalimg_6.png" width="512">
+<img src="./assets/journalimg_7.png" width="512">
+
+Preview PCB 3D View:
+
+<img src="./assets/journalimg_8.png" width="512">
