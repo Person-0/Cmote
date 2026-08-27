@@ -5931,8 +5931,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e77db7e-76d4-4514-85ae-c5b439c9fefd")
-		(property "Reference" "C_v3_USB0"
-			(at 83.058 82.55 90)
+		(property "Reference" "C5"
+			(at 80.518 82.296 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,7 +6010,7 @@
 		(instances
 			(project ""
 				(path "/463ee1d0-3616-4553-a2de-372769077643"
-					(reference "C_v3_USB0")
+					(reference "C5")
 					(unit 1)
 				)
 			)
