@@ -90,3 +90,19 @@ It looks like this:
 The lid will friction fit into the case using the side extrusions.
 
 It has rectangular cuts for headers so the devboard can be freely used without taking off the lid again and again.
+
+## Ordering Parts
+
+I will be using JLCPCB to order my PCB as for my location it is the cheapest option (if using PCB Assembly service).
+
+Please checkout the [JLC_Order](./PCB/JLC_Order/) directory for bom, cpl and gerber files.
+
+The grand total for this project comes out to be at `42.24 USD`
+
+- This is when I have used basic parts when possible and only 2 PCBA with 5 PCB (moq)
+
+[View BOM](./bom.csv) <br>
+[View PCBA BOM](./PCB/JLC_Order/pcb_bom.csv) <br>
+
+<img src="./PCB/JLC_Order/jlc_cart.png" width="512">
+<img src="./PCB/JLC_Order/rbcrz_cart.png" width="512">
