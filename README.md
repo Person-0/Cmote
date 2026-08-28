@@ -91,6 +91,8 @@ The lid will friction fit into the case using the side extrusions.
 
 It has rectangular cuts for headers so the devboard can be freely used without taking off the lid again and again.
 
+**For 3d printing, files [Cmote_body.step](./CAD/Cmote_body.step) and [Cmote_lid.step](./CAD/Cmote_lid.step) need to be printed as different bodies.**
+
 ## Ordering Parts
 
 I will be using JLCPCB to order my PCB as for my location it is the cheapest option (if using PCB Assembly service).
